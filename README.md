@@ -50,6 +50,7 @@ DIFFERENTIATOR
 <img width="757" height="447" alt="image" src="https://github.com/user-attachments/assets/3bb38583-c020-43ad-8b15-c03f1f545842" />
 
 TABULATION:
+
 <img width="1600" height="941" alt="image" src="https://github.com/user-attachments/assets/b25210d8-129e-48c2-8c14-7df89c06b4c1" />
 
 
